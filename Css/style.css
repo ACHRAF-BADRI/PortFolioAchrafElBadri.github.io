@@ -126,6 +126,13 @@ section {
     margin-bottom: 30px;
 }
 
+.content-exp {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
 .content {
     display: flex;
     justify-content: center;
