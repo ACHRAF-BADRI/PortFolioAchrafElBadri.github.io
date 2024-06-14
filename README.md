@@ -2,4 +2,4 @@
 
 PORTFOLIO using HTML, CSS and JAVASCRIPT
 
-## The link is   ==> https://achraf-badri.github.io/PortFolioAchrafElBadri.github.io/   
+## Link : https://achraf-badri.github.io/PortFolioAchrafElBadri.github.io/
